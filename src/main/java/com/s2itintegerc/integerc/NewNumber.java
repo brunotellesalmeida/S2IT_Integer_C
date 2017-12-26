@@ -18,7 +18,7 @@ public class NewNumber {
             if(numberA.length > i){
                 builder.append(numberA[i]);
             }
-            git remote add origin     if (numberB.length> i){
+            if (numberB.length> i){
                 builder.append(numberB[i]);
             }
         }
